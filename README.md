@@ -1,9 +1,8 @@
-<!-- Banner superior galáctico -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4a00e0&height=180&section=header&text=🌌 Oreki820 🌸&fontSize=32&fontColor=ffffff&animation=twinkling" />
+<h1 align="center">🌌 Oreki820</h1>
 
-<!-- Frase animada decorativa -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=45&lines=✨+Bem-vindo+ao+meu+universo+pessoal;🌸+Entre+c%C3%B3digos%2C+estrelas+e+estilo;🚀+Aprendizado+cont%C3%ADnuo+com+identidade+visual" alt="Typing SVG" />
+  <em>✨ Explorando ideias com criatividade, organização e estilo.</em><br/>
+  <em> Estilo é quando até o silêncio do código conta uma história
 </p>
 
 ---
