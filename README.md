@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>✨ Explorando ideias com criatividade, organização e estilo.</em><br/>
-  <em> Estilo é quando até o silêncio do código conta uma história
+  <em> 💫Estilo é quando até o silêncio do código conta uma história
 </p>
 
 ---
@@ -14,6 +14,6 @@ Nome: Lucas Gabriel Ferreira Gomes
 Usuário GitHub: Oreki820
 Localização: Santana do Livramento – RS, Brasil
 Estudando: Ciência de Dados pela EBAC
-Interesses: Machine Learning, Análise de Dados, Visualizações, Automação
-Hobbies: Games, RPG, design visual, projetos criativos
+Interesses: Machine Learning, Análise de Dados, Visualizações, Automação, IA
+Hobbies: Games, RPG, design visual, projetos criativos, estudos gerais, pesquisas, Ciência de Dados, IA... 
 Objetivo: Aprender, criar e evoluir de forma constante e original
