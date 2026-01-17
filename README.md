@@ -20,20 +20,6 @@
 
 ---
 
-## 🧭 Sobre Mim
-
-Sou **estudante de Ciência de Dados**, apaixonado por entender como dados, modelos e automações podem gerar **decisões melhores e soluções reais**.
-
-- 📍 **Santana do Livramento – RS, Brasil**
-- 🎓 **Ciência de Dados (EBAC)**
-- 🧠 Interesses: Análise de Dados, Machine Learning, IA, Automação e Visualização
-- 🎮 Extras: games, RPG, design visual e projetos criativos
-- 🎯 Objetivo: evoluir tecnicamente criando soluções **bem documentadas, reproduzíveis e úteis**
-
-> Não busco apenas “fazer funcionar”, mas **entender, explicar e melhorar**.
-
----
-
 ## 🧪 O que você encontra neste GitHub
 
 Este perfil funciona como uma **linha do tempo do meu aprendizado**, reunindo:
