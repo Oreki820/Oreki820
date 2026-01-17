@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oreki820&color=6f42c1&style=flat" alt="Visualizações do perfil"/>
   <img src="https://img.shields.io/badge/Área-Ciência%20de%20Dados-6f42c1?style=flat" alt="Área"/>
-  <img src="https://img.shields.io/badge/Foco-Aprendizado%20Prático-6f42c1?style=flat" alt="Foco"/>
+  <img src="https://img.shields.io/badge/Foco-Projetos%20práticos-6f42c1?style=flat" alt="Foco"/>
   <img src="https://img.shields.io/badge/Localização-Brasil-6f42c1?style=flat" alt="Localização"/>
 </p>
 
@@ -34,7 +34,7 @@ Gosto de entender **o porquê das coisas**, não apenas aplicar ferramentas.
 Valorizo clareza, organização e aprendizado contínuo.
 
 📍 Santana do Livramento – RS, Brasil  
-🎓 Ciência de Dados (Uninter - Tecnólogo)
+🎓 **UNINTER — Tecnólogo em Ciência de Dados (cursando)**
 
 ---
 
@@ -56,6 +56,15 @@ Este perfil funciona como uma **linha do tempo do meu aprendizado**, reunindo:
 
 **Como eu organizo as coisas por aqui:**  
 > problema → abordagem → implementação → aprendizado
+
+---
+
+## Princípios que eu sigo
+
+- **Reprodutibilidade:** instruções claras para rodar projetos
+- **Organização:** estrutura consistente e documentação objetiva
+- **Aprendizado real:** cada projeto tem um motivo e uma conclusão
+- **Honestidade técnica:** registro do processo, não só do resultado
 
 ---
 
@@ -99,23 +108,6 @@ Este perfil funciona como uma **linha do tempo do meu aprendizado**, reunindo:
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="42" alt="Azure"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" alt="AWS"/>
-</p>
-
----
-
-## 📊 Estatísticas do GitHub (corrigidas)
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Oreki820&show_icons=true&theme=default&hide_title=true&cache_seconds=1800"
-    height="160"
-    alt="GitHub stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oreki820&layout=compact&theme=default&cache_seconds=1800"
-    height="160"
-    alt="Top languages"
-  />
 </p>
 
 ---
